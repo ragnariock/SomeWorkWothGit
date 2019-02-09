@@ -11,3 +11,5 @@ git add .      ---    добавити всі файли всховище.
 git add namefile   --- добавляє елемент.
 
 git commit -m "Comment"    -----  створення коміту
+
+git clone htppwwwgit...       -----     слонування git чужого проекта.
