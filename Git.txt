@@ -1,0 +1,13 @@
+git config --global user.name 'Ostap Salo'    --- Ми вводимо назву до git коритувача.
+
+git config --list     ---  ми дивомося список всіх користувачів. 
+
+git init     ---   створює сховище.
+
+git status     ---    показує в якому статосі зараз сховище.
+
+git add .      ---    добавити всі файли всховище.
+
+git add namefile   --- добавляє елемент.
+
+git commit -m "Comment"    -----  створення коміту
